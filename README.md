@@ -344,5 +344,4 @@ Git hook scripts, `git commit --no-verify`
 Happy committing! 💥  
 *Contributions, suggestions, and improvements are always welcome.*
 
-```
 
