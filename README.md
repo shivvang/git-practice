@@ -1,4 +1,4 @@
-# 🚀 Complete Git Learning Path - Hands-On Tasks (learn by doing it and understand the concepts underlying)
+# 🚀 Complete Git Learning Path - Hands-On Tasks (repitative practice is what can help you learn otherwise there is no help )
 
 Welcome to the **Complete Git Learning Path** – a hands-on journey through the world of Git! Whether you're a beginner or brushing up on advanced concepts, this repo will walk you through real-world scenarios step-by-step.
 
